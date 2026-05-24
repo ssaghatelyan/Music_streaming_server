@@ -1,3 +1,4 @@
+#include <iostream>
 #include <ncurses.h>
 #include <string>
 #include <vector>
@@ -7,6 +8,7 @@
 #include <cstring>
 #include <arpa/inet.h>
 #include <unistd.h>
+#include <algorithm>
 
 #define PORT 8080
 #define IP   "127.0.0.1"
