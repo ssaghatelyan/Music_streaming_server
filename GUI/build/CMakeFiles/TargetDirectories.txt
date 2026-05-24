@@ -1,5 +1,0 @@
-/home/ssaghatelyan/Music_streaming_server/GUI/build/CMakeFiles/client.dir
-/home/ssaghatelyan/Music_streaming_server/GUI/build/CMakeFiles/edit_cache.dir
-/home/ssaghatelyan/Music_streaming_server/GUI/build/CMakeFiles/rebuild_cache.dir
-/home/ssaghatelyan/Music_streaming_server/GUI/build/CMakeFiles/client_autogen_timestamp_deps.dir
-/home/ssaghatelyan/Music_streaming_server/GUI/build/CMakeFiles/client_autogen.dir
